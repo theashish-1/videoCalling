@@ -1,5 +1,5 @@
 
-const LOCAL_IP_ADDRESS = "192.168.16.129"; // change it
+const LOCAL_IP_ADDRESS = "https://videocalling-tptx.onrender.com"; // change it
 const getElement = id => document.getElementById(id);
 const [btnConnect, btnToggleVideo, btnToggleAudio, divRoomConfig, roomDiv, roomNameInput, localVideo, remoteVideo] = ["btnConnect",
   "toggleVideo", "toggleAudio", "roomConfig", "roomDiv", "roomName",
